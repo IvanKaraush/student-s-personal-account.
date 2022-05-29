@@ -1,0 +1,168 @@
+.sign_up{
+position: absolute;
+
+top: 60%;
+left: 60%;
+}
+.input_1{
+  position: absolute;
+  left: 40%;
+  top: 40%;
+  width: 25%;
+}
+.input_2{
+  position: absolute;
+  left: 40%;
+  top: 50%;
+  width: 25%;
+}
+.sign_in{
+  position: absolute;
+
+  top: 62%;
+  left: 48%;
+}
+
+.e-mail{
+  position: absolute;
+  left: 20%;
+  top: 40%;
+  width: 25%;
+}
+.pass{
+  position: absolute;
+  left: 20%;
+  top: 50%;
+  width: 25%;
+}
+.FIO{
+  position: absolute;
+  left: 20%;
+  top: 60%;
+  width: 25%;
+}
+.registr{
+  position: absolute;
+
+  top: 70%;
+  left: 55%;
+}
+.left-align{
+  position: absolute;
+
+  left: 10%;
+}
+.FROM{
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  width: 25%;
+}
+.date{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 25%;
+}
+.checkbox_1{
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  width: 25%;
+}
+.checkbox_2{
+  position: absolute;
+  left: 60%;
+  top: 40%;
+  width: 25%;
+}
+.input_email{
+  position: absolute;
+  left: 40%;
+  top: 40%;
+  width: 25%;
+}
+.input_FIO{
+  position: absolute;
+  left: 40%;
+  top: 50%;
+  width: 25%;
+}
+.input_pass{
+  position: absolute;
+  left: 40%;
+  top: 60%;
+  width: 25%;
+}
+.save_button{
+  position: absolute;
+  left: 57.5%;
+  top: 70%;
+  width: 30%;
+}
+.box_1{
+  position: absolute;
+  left: 45%;
+  top: 70%;
+  width: 25%;
+}
+.box_2{
+  position: absolute;
+  left: 55%;
+  top: 70%;
+  width: 25%;
+}
+
+.about_me{
+  position: absolute;
+  left: 55%;
+  top: 50%;
+  width: 25%;
+}
+.send{
+  position: absolute;
+  left: 60%;
+  top: 60%;
+  width: 30%;
+}
+
+.exit{
+  position: absolute;
+  left: 52%;
+  top: 72%;
+
+}
+.update_button{
+  position: absolute;
+  left: 58%;
+  top: 80%;
+  width: 30%;
+}
+.enter_email{
+  position: absolute;
+  left: 55%;
+  top: 35%;
+  width: 25%;
+}
+.settings{
+  position: absolute;
+  left: 90%;
+  top: 1.5%;
+  color: white;
+}
+.cansel{
+  position: absolute;
+  left: 52%;
+  top: 82%;
+}
+.cansel_reg{
+  position: absolute;
+  left: 50%;
+  top: 72%;
+}
+.input_about{
+  position: absolute;
+  left: 40%;
+  top: 45%;
+  width: 25%;
+}
